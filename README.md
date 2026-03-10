@@ -1,2 +1,1 @@
-# Custom-Packer-Unpacker
-A Custom File Archiver Utility implemented in Java that packs multiple files from a directory into a single file and later unpacks them back to their original form.  This project demonstrates practical usage of:  Java File Handling  Streams (FileInputStream / FileOutputStream)  Directory Traversal  Byte-level File Processing  Data Packing & Header Metadata  It mimics the working principle of tools like ZIP / TAR but implemented manually for learning purposes.
+
